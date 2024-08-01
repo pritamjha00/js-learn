@@ -1,0 +1,8 @@
+const userID = 255465;
+let userName = ("Pritam Kumar Jha");
+var userNationality = ("American");
+userName = ('Pritam Jha');
+userAge = 22;
+userReligion = ("Hindu");
+
+console.table([userID, userName, userNationality, userAge, userReligion])
