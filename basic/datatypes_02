@@ -1,0 +1,13 @@
+"use strict"; // all code as newer version
+//alert("Hello Pritam") //Only Browser
+//let name  = "Pritam" //string
+//let age = 22 // Number value
+// True, False (Boolean Datatype)
+// Null (Stand alone value)
+//Undefined ()
+//Symbol (uniqe)
+
+// Datatypes
+// Number, String, Boolean, Null, Undefined,Symbol, 
+
+//console.log(typeof undefined)
