@@ -1,10 +1,10 @@
-let valOne = 33
+/* let valOne = 33
 console.log(typeof valOne)
 console.log(typeof (valOne))
 
 let valInNum = Boolean(valOne)
 //console.log(typeof valInNum)
-console.log(valInNum )
+console.log(valInNum ) */
 
 // "21" = 21
 // "21mvfv" = NaN
