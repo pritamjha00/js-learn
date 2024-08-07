@@ -1,0 +1,12 @@
+let valOne = 33
+console.log(typeof valOne)
+console.log(typeof (valOne))
+
+let valInNum = Boolean(valOne)
+//console.log(typeof valInNum)
+console.log(valInNum )
+
+// "21" = 21
+// "21mvfv" = NaN
+//true = 1; false= 0
+ 
